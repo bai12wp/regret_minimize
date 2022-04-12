@@ -4,6 +4,4 @@ In this paper, we studied Regret-Based LTL planning in partially-known environme
 
 ## Experiment Video
 
-[Video1](https://youtu.be/3ce66Vj2nns)
-
-[Video2](https://youtu.be/db0OgS7uDwc)
+[Video](https://youtu.be/N4XSVe785B0)
